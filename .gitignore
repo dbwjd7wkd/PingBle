@@ -6,11 +6,11 @@
 
 #*/Build
 
-*/Binaries
+Binaries
 
-*/DerivedDataCache
+DerivedDataCache
 
-*/Intermediate
+Intermediate
 
 #*/Saved#
 
@@ -32,5 +32,4 @@
 
 #################
 
-*/.vs
-.vs/*
+.vs
