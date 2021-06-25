@@ -1,9 +1,3 @@
-# PingBle
-
-Unreal FPS game project
-- unreal vesion: 4.26.2
-- FPS game
-
 # FPS 게임 프로젝트 핑블
 
 ### 프로젝트 소개
