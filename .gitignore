@@ -91,9 +91,9 @@ Build/Android/res/*
 Build/Android/res/*/*
 !Build/Android/res/*/*.png
 
-ParagonWraith/*
-Content/ParagonWraith/*
-ParagonKallari/*
-Content/ParagonKallari/*
+#ParagonWraith/*
+#Content/ParagonWraith/*
+#ParagonKallari/*
+#Content/ParagonKallari/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
