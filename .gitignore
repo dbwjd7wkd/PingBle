@@ -95,5 +95,7 @@ Build/Android/res/*/*
 #Content/ParagonWraith/*
 #ParagonKallari/*
 #Content/ParagonKallari/*
+Content/Magic_Circle_Creator/*
+Magic_Circle_Creator/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
